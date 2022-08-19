@@ -1,0 +1,43 @@
+.color{
+color:red; 
+font-family:aero;
+ font-size:20px;
+ }
+.green{
+color:green;
+ font-size:24px;
+ }
+#just{
+text-align:justify; 
+color:#E54A2F;
+}
+.center{
+ text-align:center;
+ color:#837108;
+ }
+.right{
+text-align:right; 
+color:#0E29EC;
+}
+.left{
+text-align:left;
+ color:#0EEC3D;
+ }
+ 
+ 
+ 
+.card{
+width:95vw;
+ height:50vh;
+  border:2px solid red;
+  border-radius:20px;
+
+    }
+.card img{
+
+margin-left:500px;
+padding:20px;
+width:300px;
+height:300px;
+
+ }

@@ -1,0 +1,10 @@
+.card-header{padding:20px; background-color:#EDEEE0; color:red; border:1px solid #DAF8E5; border:radius:10px; width:50%; height:300px; text-align:center;}
+.card-cont{ text-align:center; width:100%; height:250px; border:2px dotted green; border-radius:10px; color:blue; background-color:#AFF5CA;} 
+.danger{color:red;}
+.card-foot{background-color:#AFF5CA; width:90%; height:300px; padding:50px; border:2px solid black; border-radius:10px;}
+.card-foot img{width:200px; height:200px; margin-left:auto;margin-right:auto;}
+.card-foot h1{color:red;}
+body{
+background:url('"https://media-exp2.licdn.com/dms/image/C5603AQGtGJ-wVkVF-A/profile-displayphoto-shrink_100_100/0/1612152162978?e=2147483647&v=beta&t=PjGeUPMDnu_T8hrTCdAQr1KnPUdx6q1wXpM86MRY0kg"');
+background-size:cover;
+}
